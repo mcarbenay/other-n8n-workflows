@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Chat with local LLMs using n8n and Ollama",
+    "summary": "Permet d'interagir avec des modèles de langage hébergés localement via une interface de chat dans n8n."
+  },
+  {
+    "name": "🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram",
+    "summary": "Crée un chatbot IA avec mémoire à long terme et stockage de notes, intégré à Telegram et Google Docs."
+  },
+  {
+    "name": "🤖 Telegram Messaging Agent for Text/Audio/Images",
+    "summary": "Processes Telegram messages, including text, audio, and images, and provides error handling for unsupported formats."
+  },
+  {
+    "name": "🚀 Local Multi-LLM Testing & Performance Tracker",
+    "summary": "Facilitates testing multiple local LLMs using LM Studio, including querying models and analyzing text readability."
+  },
+  {
+    "name": "🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows",
+    "summary": "Analyzes popular workflows from n8n creators and generates a leaderboard based on collected data."
+  },
+  {
+    "name": "🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant",
+    "summary": "Creates a private and local AI assistant using the Ollama model hosted internally."
+  },
+  {
+    "name": "🔍 Perplexity Research to HTML_ AI-Powered Content Creation",
+    "summary": "Converts Perplexity research data into HTML-formatted content for AI-powered content creation."
+  },
+  {
+    "name": "📚 Auto-generate documentation for n8n workflows with GPT and Docsify",
+    "summary": "Automates the generation of documentation for n8n workflows using GPT and Docsify."
+  },
+  {
+    "name": "📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox",
+    "summary": "Extracts daily market news from FT.com and sends it to your Microsoft Outlook inbox."
+  },
+  {
+    "name": "🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠",
+    "summary": "Creates a DeepSeek AI agent with long-term memory capabilities and Telegram integration for advanced interactions."
+  },
+  {
+    "name": "🐋DeepSeek V3 Chat & R1 Reasoning Quick Start",
+    "summary": "Provides a quick start for DeepSeek V3 chat and R1 reasoning with advanced AI capabilities."
+  },
+  {
+    "name": "🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting",
+    "summary": "Provides an interactive image editing experience using the FLUX.1 Fill Tool for inpainting."
+  },
+  {
+    "name": "⚡AI-Powered YouTube Video Summarization & Analysis",
+    "summary": "Processes YouTube videos by extracting transcripts, splitting them into segments, and providing summarized analysis."
+  },
+  {
+    "name": "✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini",
+    "summary": "Enables vision-based web scraping using ScrapingBee and integrates with Google Sheets and Gemini for structured data processing."
+  },
+  {
+    "name": "🤖Email Agent",
+    "summary": "Leverages OpenAI's GPT-4 model to process email-related tasks with error handling."
+  },
+  {
+    "name": "🤖Content Creator Agent",
+    "summary": "Assists in creating engaging and well-structured blog content using Tavily for web searches and an AI agent for content generation."
+  },
+  {
+    "name": "🤖Contact Agent",
+    "summary": "Manages contact information using OpenAI's GPT-4 model for processing and Airtable for storage and retrieval."
+  },
+  {
+    "name": "🤖Calendar Agent",
+    "summary": "Manages calendar-related tasks using OpenAI's GPT-4 model for processing and error handling."
+  },
+  {
+    "name": "piepdrive-test",
+    "summary": "Enriches Pipedrive organization data by adding a note using OpenAI's GPT-4 model and ScrapingBee for web scraping."
+  },
+  {
+    "name": "🤖🧑‍💻 AI Agent for Top n8n Creators Leaderboard Reporting",
+    "summary": "Aggregates data from n8n creators and workflows to generate a leaderboard report."
+  },
+  {
+    "name": "Generate AI-Ready llms.txt Files from Screaming Frog Website Crawls",
+    "summary": "Processes Screaming Frog website crawl exports to generate AI-ready llms.txt files by filtering indexable URLs and extracting relevant data."
+  },
+  {
+    "name": "(G) LineChatBot + Google Sheets (as a memory)",
+    "summary": "Integrates a Line chatbot with Google Sheets for memory and Google Gemini for AI responses."
+  },
+  {
+    "name": "Easily Compare LLMs Using OpenAI and Google Sheets",
+    "summary": "Evaluates and compares outputs of two language models (LLMs) using OpenAI and Google Sheets."
+  },
+  {
+    "name": "Youtube Searcher",
+    "summary": "Searches for YouTube videos and retrieves detailed information such as content details and statistics."
+  },
+  {
+    "name": "AI T-Shirt Redesign Workflow from any Mockup Image",
+    "summary": "Uses OpenAI's image generation API to redesign T-shirts based on mockup images."
+  },
+  {
+    "name": "Sync New Shopify Customers to Odoo Contacts",
+    "summary": "Synchronizes new Shopify customers with Odoo contacts by filtering existing contacts and adding new ones."
+  },
+  {
+    "name": "Zoom AI Meeting Assistant",
+    "summary": "Uses AI to summarize Zoom meeting recordings, create tasks in ClickUp, and schedule follow-up calls."
+  },
+  {
+    "name": "Search & Summarize Web Data with Perplexity, Gemini AI & Bright Data to Webhooks",
+    "summary": "Searches and summarizes web data using Perplexity, Gemini AI, and Bright Data, and sends the results to webhooks."
+  },
+  {
+    "name": "Bitrix24 Task Form Widget Application Workflow example with Webhook Integration",
+    "summary": "Integrates Bitrix24 task form widgets with webhook functionality for handling and processing data."
+  }
+]

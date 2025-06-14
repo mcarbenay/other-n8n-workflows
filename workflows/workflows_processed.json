@@ -1,0 +1,120 @@
+{
+  "name": "🤖🧑‍💻 AI Agent for Top n8n Creators Leaderboard Reporting",
+  "summary": "Aggregates data about n8n creators and workflows, processes it, and generates detailed reports highlighting top contributors and workflows."
+}
+{
+  "name": "🤖 Telegram Messaging Agent for Text/Audio/Images",
+  "summary": "Processes incoming Telegram messages, including text, audio, and images, with validation, routing, transcription, and image analysis."
+}
+{
+  "name": "📈 Receive Daily Market News from FT.com to your Microsoft Outlook Inbox",
+  "summary": "Automates the daily delivery of curated financial news from FT.com to Microsoft Outlook, providing structured updates for investors."
+}
+{
+  "name": "🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠",
+  "summary": "Integrates DeepSeek AI with Telegram to provide a chatbot experience enhanced by long-term memory storage and personalized responses."
+}
+{
+  "name": "🐋DeepSeek V3 Chat & R1 Reasoning Quick Start",
+  "summary": "Demonstrates the integration of DeepSeek AI models for chat and reasoning tasks, including DeepSeek-V3 Chat and DeepSeek-R1 Reasoning models."
+}
+{
+  "name": "Youtube Searcher",
+  "summary": "Automates the process of searching for YouTube videos and retrieving detailed information about them, including content details and statistics."
+}
+{
+  "name": "AI T-Shirt Redesign Workflow from any Mockup Image",
+  "summary": "Automates the process of generating redesigned T-shirt mockups using AI image generation services."
+}
+{
+  "name": "Sync New Shopify Customers to Odoo Contacts",
+  "summary": "Automates the synchronization of new customer data from Shopify to Odoo, ensuring that contact information is up-to-date."
+}
+{
+  "name": "Zoom AI Meeting Assistant",
+  "summary": "Automates the process of summarizing Zoom meeting recordings, creating tasks in ClickUp, and scheduling follow-up calls."
+}
+{
+  "name": "Travel AssistantAgent",
+  "summary": "Provides a chatbot-based travel assistant that integrates chat memory and AI-powered responses to assist users with travel-related queries."
+}
+{
+  "name": "AI-Powered WhatsApp Chatbot for Text, Voice, Images & PDFs",
+  "summary": "Enables a chatbot that processes various types of media received via WhatsApp, including text, voice messages, images, and PDFs."
+}
+{
+  "name": "HR & IT Helpdesk Chatbot with Audio Transcription",
+  "summary": "Provides a chatbot that assists with HR and IT queries by leveraging internal policy documents and audio transcription capabilities."
+}
+{
+  "name": "v1 helper - Find params with affected expressions",
+  "summary": "Identifies parameters in active workflows that contain specific expressions affected by predefined extensions."
+}
+{
+  "name": "Dynamic Form with AI",
+  "summary": "Leverages AI to dynamically generate and process forms based on user input, providing clarification questions and responses."
+}
+{
+  "name": "n8n-農產品",
+  "summary": "Retrieves agricultural product data from a government API and processes it for analysis."
+}
+{
+  "name": "Gmail to Vector Embeddings with PGVector and Ollama",
+  "summary": "Processes Gmail emails and converts their content into vector embeddings for advanced analysis and storage."
+}
+{
+  "name": "Import multiple CSV to GoogleSheet",
+  "summary": "Automates the process of importing multiple CSV files into Google Sheets for data consolidation and analysis."
+}
+{
+  "name": "Shopify order UTM to Baserow",
+  "summary": "Automates the process of transferring UTM parameters from Shopify orders to a Baserow database for tracking and analysis."
+}
+{
+  "name": "OIDC client workflow",
+  "summary": "Facilitates OpenID Connect (OIDC) authentication and retrieves user information from an OIDC provider."
+}
+{
+  "name": "Social Media AI Agent - Telegram",
+  "summary": "Automates the process of crawling social media content, extracting metadata, and sharing insights via Telegram."
+}
+{
+  "name": "Bitrix24 Task Form Widget Application Workflow example with Webhook Integration",
+  "summary": "Automates the handling of Bitrix24 task form submissions via webhook integration."
+}
+{
+  "name": "MONDAY GET FULL ITEM",
+  "summary": "Retrieves detailed information about items and their relations from Monday.com boards."
+}
+{
+  "name": "Search & Summarize Web Data with Perplexity, Gemini AI & Bright Data to Webhooks",
+  "summary": "Automates the process of searching, summarizing, and delivering web data insights using advanced AI models and web scraping tools."
+}
+{
+  "name": "OpenSea NFT Agent Tool",
+  "summary": "Provides an AI-powered agent for analyzing and interacting with NFT data from OpenSea."
+}
+{
+  "name": "Perform an email search with Icypeas (single)",
+  "summary": "Demonstrates how to perform an email search using Icypeas."
+}
+{
+  "name": "LINE Assistant with Google Calendar and Gmail Integration",
+  "summary": "Provides an AI-powered assistant that integrates LINE messaging with Google Calendar and Gmail for enhanced productivity."
+}
+{
+  "name": "📦 New Email ➔ Create Google Task",
+  "summary": "Automates the process of creating Google Tasks from new emails labeled 'To-Do' in Gmail."
+}
+{
+  "name": "Extract Business Leads from Google Maps with Dumpling AI to Google Sheets",
+  "summary": "Automates the process of searching Google Maps for business leads using Dumpling AI and logging the results into Google Sheets."
+}
+{
+  "name": "My workflow",
+  "summary": "Automates the process of collecting form submissions and logging them into Google Sheets."
+}
+{
+  "name": "Log errors and avoid sending too many emails",
+  "summary": "Logs errors into a database and prevents excessive email notifications."
+}

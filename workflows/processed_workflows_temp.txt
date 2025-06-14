@@ -25,4 +25,5 @@ New Tweets Workflow - Interagit avec Twitter pour récupérer ou publier des twe
 - **102_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_ActiveMQ.json**: Sends updates about the position of the ISS every minute to a topic in ActiveMQ
 - **1035_workflow_1035.json**: Retrieves slides and thumbnails from a Google Slides presentation using OAuth2 authentication.
 - **1039_workflow_1039.json**: Listens for replies to an Emelia campaign and sends notifications to a Mattermost channel.
+- **🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram**: Facilite les conversations enrichies avec un chatbot intelligent tout en conservant un historique et des notes pour une utilisation future.
 
