@@ -1,0 +1,28 @@
+# Processed Workflows
+
+typeform feedback workflow - Collecte les retours des utilisateurs via un formulaire Typeform et les traite.
+
+Nostr Damus AI Powered Reporting + Gmail + Telegram - Génère des rapports alimentés par l'IA et les envoie via Gmail et Telegram.
+
+Automated Social Media Content Publishing Factory + System Prompt Composition - Automatise la publication de contenu sur les réseaux sociaux et la composition de prompts système.
+
+Complete Guide to Setting Up and Generating TOTP Codes in n8n - Guide complet pour configurer et générer des codes TOTP dans n8n.
+
+Bitwarden Group Creation Workflow - Crée un groupe nommé "documentation" dans Bitwarden.
+
+New Tweets Workflow - Interagit avec Twitter pour récupérer ou publier des tweets.
+
+- **0KZs18Ti2KXKoLIr_✨🩷Automated_Social_Media_Content_Publishing_Factory_+_System_Prompt_Composition.json**: Automates social media content publishing and system prompt composition based on chat messages.
+- **1005_workflow_1005.json**: Weather Notification via SMS
+- **100_Create_a_new_task_in_Todoist.json**: Create a New Task in Todoist
+- **100_On_new_Stripe_Invoice_Payment_update_Hubspot_and_notify_the_team_in_Slack.json**: Stripe Invoice Payment Update
+- **100_workflow_100.json**: Data Transformation Example
+- **101_workflow_101.json**: Binary File Creation Example
+- **1021_workflow_1021.json**: Creates and updates a person in Copper CRM
+- **1028_Loading_data_into_a_spreadsheet.json**: Loads CRM contact data into a spreadsheet
+- **1028_workflow_1028.json**: Creates and updates a person in Copper CRM
+- **102_Insert_data_into_a_new_row_for_a_table_in_Coda.json**: Inserts data into a new row for a table in Coda
+- **102_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_ActiveMQ.json**: Sends updates about the position of the ISS every minute to a topic in ActiveMQ
+- **1035_workflow_1035.json**: Retrieves slides and thumbnails from a Google Slides presentation using OAuth2 authentication.
+- **1039_workflow_1039.json**: Listens for replies to an Emelia campaign and sends notifications to a Mattermost channel.
+
