@@ -114,5 +114,13 @@
   {
     "name": "Bitrix24 Task Form Widget Application Workflow example with Webhook Integration",
     "summary": "Integrates Bitrix24 task form widgets with webhook functionality for handling and processing data."
+  },
+  {
+    "name": "OpenSea NFT Agent Tool",
+    "summary": "Leverages AI to interact with OpenSea NFT data, providing insights and memory capabilities for NFT analysis."
+  },
+  {
+    "name": "LINE Assistant with Google Calendar and Gmail Integration",
+    "summary": "Integrates LINE messaging with Google Calendar and Gmail, providing AI-powered assistance for scheduling and communication."
   }
 ]
